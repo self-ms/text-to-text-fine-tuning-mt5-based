@@ -1,0 +1,529 @@
+,input_text,target_text
+0,Hi,Hello!
+1,Hi,Good to see you again!
+2,Hi,"Hi there, how can I help?"
+3,How are you?,Hello!
+4,How are you?,Good to see you again!
+5,How are you?,"Hi there, how can I help?"
+6,Is anyone there?,Hello!
+7,Is anyone there?,Good to see you again!
+8,Is anyone there?,"Hi there, how can I help?"
+9,Hello,Hello!
+10,Hello,Good to see you again!
+11,Hello,"Hi there, how can I help?"
+12,Good day,Hello!
+13,Good day,Good to see you again!
+14,Good day,"Hi there, how can I help?"
+15,What's up,Hello!
+16,What's up,Good to see you again!
+17,What's up,"Hi there, how can I help?"
+18,how are ya,Hello!
+19,how are ya,Good to see you again!
+20,how are ya,"Hi there, how can I help?"
+21,heyy,Hello!
+22,heyy,Good to see you again!
+23,heyy,"Hi there, how can I help?"
+24,whatsup,Hello!
+25,whatsup,Good to see you again!
+26,whatsup,"Hi there, how can I help?"
+27,??? ??? ??,Hello!
+28,??? ??? ??,Good to see you again!
+29,??? ??? ??,"Hi there, how can I help?"
+30,cya,Sad to see you go :(
+31,cya,Talk to you later
+32,cya,Goodbye!
+33,cya,Come back soon
+34,see you,Sad to see you go :(
+35,see you,Talk to you later
+36,see you,Goodbye!
+37,see you,Come back soon
+38,bye bye,Sad to see you go :(
+39,bye bye,Talk to you later
+40,bye bye,Goodbye!
+41,bye bye,Come back soon
+42,See you later,Sad to see you go :(
+43,See you later,Talk to you later
+44,See you later,Goodbye!
+45,See you later,Come back soon
+46,Goodbye,Sad to see you go :(
+47,Goodbye,Talk to you later
+48,Goodbye,Goodbye!
+49,Goodbye,Come back soon
+50,I am Leaving,Sad to see you go :(
+51,I am Leaving,Talk to you later
+52,I am Leaving,Goodbye!
+53,I am Leaving,Come back soon
+54,Bye,Sad to see you go :(
+55,Bye,Talk to you later
+56,Bye,Goodbye!
+57,Bye,Come back soon
+58,Have a Good day,Sad to see you go :(
+59,Have a Good day,Talk to you later
+60,Have a Good day,Goodbye!
+61,Have a Good day,Come back soon
+62,talk to you later,Sad to see you go :(
+63,talk to you later,Talk to you later
+64,talk to you later,Goodbye!
+65,talk to you later,Come back soon
+66,ttyl,Sad to see you go :(
+67,ttyl,Talk to you later
+68,ttyl,Goodbye!
+69,ttyl,Come back soon
+70,i got to go,Sad to see you go :(
+71,i got to go,Talk to you later
+72,i got to go,Goodbye!
+73,i got to go,Come back soon
+74,gtg,Sad to see you go :(
+75,gtg,Talk to you later
+76,gtg,Goodbye!
+77,gtg,Come back soon
+78,what is the name of your developers,College students
+79,what is the name of your creators,College students
+80,what is the name of the developers,College students
+81,what is the name of the creators,College students
+82,who created you,College students
+83,your developers,College students
+84,your creators,College students
+85,who are your developers,College students
+86,developers,College students
+87,you are made by,College students
+88,you are made by whom,College students
+89,who created you,College students
+90,who create you,College students
+91,creators,College students
+92,who made you,College students
+93,who designed you,College students
+94,name,You can call me Mind Reader.
+95,name,I'm Mind Reader
+96,name,I am a Chatbot.
+97,name,I am your helper
+98,your name,You can call me Mind Reader.
+99,your name,I'm Mind Reader
+100,your name,I am a Chatbot.
+101,your name,I am your helper
+102,do you have a name,You can call me Mind Reader.
+103,do you have a name,I'm Mind Reader
+104,do you have a name,I am a Chatbot.
+105,do you have a name,I am your helper
+106,what are you called,You can call me Mind Reader.
+107,what are you called,I'm Mind Reader
+108,what are you called,I am a Chatbot.
+109,what are you called,I am your helper
+110,what is your name,You can call me Mind Reader.
+111,what is your name,I'm Mind Reader
+112,what is your name,I am a Chatbot.
+113,what is your name,I am your helper
+114,what should I call you,You can call me Mind Reader.
+115,what should I call you,I'm Mind Reader
+116,what should I call you,I am a Chatbot.
+117,what should I call you,I am your helper
+118,whats your name?,You can call me Mind Reader.
+119,whats your name?,I'm Mind Reader
+120,whats your name?,I am a Chatbot.
+121,whats your name?,I am your helper
+122,what are you,You can call me Mind Reader.
+123,what are you,I'm Mind Reader
+124,what are you,I am a Chatbot.
+125,what are you,I am your helper
+126,who are you,You can call me Mind Reader.
+127,who are you,I'm Mind Reader
+128,who are you,I am a Chatbot.
+129,who are you,I am your helper
+130,who is this,You can call me Mind Reader.
+131,who is this,I'm Mind Reader
+132,who is this,I am a Chatbot.
+133,who is this,I am your helper
+134,what am i chatting to,You can call me Mind Reader.
+135,what am i chatting to,I'm Mind Reader
+136,what am i chatting to,I am a Chatbot.
+137,what am i chatting to,I am your helper
+138,who am i taking to,You can call me Mind Reader.
+139,who am i taking to,I'm Mind Reader
+140,who am i taking to,I am a Chatbot.
+141,who am i taking to,I am your helper
+142,what are you,You can call me Mind Reader.
+143,what are you,I'm Mind Reader
+144,what are you,I am a Chatbot.
+145,what are you,I am your helper
+146,timing of college,College is open 8am-5pm Monday-Saturday!
+147,what is college timing,College is open 8am-5pm Monday-Saturday!
+148,working days,College is open 8am-5pm Monday-Saturday!
+149,when are you guys open,College is open 8am-5pm Monday-Saturday!
+150,what are your hours,College is open 8am-5pm Monday-Saturday!
+151,hours of operation,College is open 8am-5pm Monday-Saturday!
+152,when is the college open,College is open 8am-5pm Monday-Saturday!
+153,college timing,College is open 8am-5pm Monday-Saturday!
+154,what about college timing,College is open 8am-5pm Monday-Saturday!
+155,is college open on saturday,College is open 8am-5pm Monday-Saturday!
+156,tell something about college timing,College is open 8am-5pm Monday-Saturday!
+157,what is the college  hours,College is open 8am-5pm Monday-Saturday!
+158,when should i come to college,College is open 8am-5pm Monday-Saturday!
+159,when should i attend college,College is open 8am-5pm Monday-Saturday!
+160,what is my college time,College is open 8am-5pm Monday-Saturday!
+161,college timing,College is open 8am-5pm Monday-Saturday!
+162,timing college,College is open 8am-5pm Monday-Saturday!
+163,more info,You can contact at: NUMBER
+164,contact info,You can contact at: NUMBER
+165,how to contact college,You can contact at: NUMBER
+166,college telephone number,You can contact at: NUMBER
+167,college number,You can contact at: NUMBER
+168,What is your contact no,You can contact at: NUMBER
+169,Contact number?,You can contact at: NUMBER
+170,how to call you,You can contact at: NUMBER
+171,College phone no?,You can contact at: NUMBER
+172,how can i contact you,You can contact at: NUMBER
+173,Can i get your phone number,You can contact at: NUMBER
+174,how can i call you,You can contact at: NUMBER
+175,phone number,You can contact at: NUMBER
+176,phone no,You can contact at: NUMBER
+177,call,You can contact at: NUMBER
+178,list of courses,"Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering."
+179,list of courses offered,"Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering."
+180,list of courses offered in,"Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering."
+181,what are the courses offered in your college?,"Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering."
+182,courses?,"Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering."
+183,courses offered,"Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering."
+184,courses offered in (your univrsity(UNI) name),"Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering."
+185,courses you offer,"Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering."
+186,branches?,"Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering."
+187,courses available at UNI?,"Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering."
+188,branches available at your college?,"Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering."
+189,what are the courses in UNI?,"Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering."
+190,what are branches in UNI?,"Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering."
+191,what are courses in UNI?,"Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering."
+192,branches available in UNI?,"Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering."
+193,can you tell me the courses available in UNI?,"Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering."
+194,can you tell me the branches available in UNI?,"Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering."
+195,computer engineering?,"Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering."
+196,computer,"Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering."
+197,Computer engineering?,"Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering."
+198,it,"Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering."
+199,IT,"Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering."
+200,Information Technology,"Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering."
+201,AI/Ml,"Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering."
+202,Mechanical engineering,"Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering."
+203,Chemical engineering,"Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering."
+204,Civil engineering,"Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering."
+205,information about fee,"For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>"
+206,information on fee,"For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>"
+207,tell me the fee,"For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>"
+208,college fee,"For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>"
+209,fee per semester,"For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>"
+210,what is the fee of each semester,"For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>"
+211,what is the fees of each year,"For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>"
+212,what is fee,"For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>"
+213,what is the fees,"For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>"
+214,how much is the fees,"For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>"
+215,fees for first year,"For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>"
+216,fees,"For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>"
+217,about the fees,"For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>"
+218,tell me something about the fees,"For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>"
+219,What is the fees of hostel,"For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>"
+220,how much is the fees,"For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>"
+221,hostel fees,"For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>"
+222,fees for AC room,"For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>"
+223,fees for non-AC room,"For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>"
+224,fees for Ac room for girls,"For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>"
+225,fees for non-Ac room for girls,"For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>"
+226,fees for Ac room for boys,"For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>"
+227,fees for non-Ac room for boys,"For Fee detail visit <a target=""_blank"" href=""LINK""> here</a>"
+228,where is the college located,"<a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a>"
+229,college is located at,"<a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a>"
+230,where is college,"<a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a>"
+231,where is college located,"<a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a>"
+232,address of college,"<a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a>"
+233,how to reach college,"<a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a>"
+234,college location,"<a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a>"
+235,college address,"<a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a>"
+236,wheres the college,"<a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a>"
+237,how can I reach college,"<a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a>"
+238,whats is the college address,"<a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a>"
+239,what is the address of college,"<a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a>"
+240,address,"<a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a>"
+241,location,"<a target=""_blank"" href=""ADD YOU GOOGLE MAP LINK HERE""> here</a>"
+242,hostel facility,"For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>"
+243,hostel servive,"For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>"
+244,hostel location,"For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>"
+245,hostel address,"For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>"
+246,hostel facilities,"For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>"
+247,hostel fees,"For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>"
+248,Does college provide hostel,"For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>"
+249,Is there any hostel,"For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>"
+250,Where is hostel,"For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>"
+251,do you have hostel,"For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>"
+252,do you guys have hostel,"For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>"
+253,hostel,"For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>"
+254,hostel capacity,"For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>"
+255,what is the hostel fee,"For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>"
+256,how to get in hostel,"For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>"
+257,what is the hostel address,"For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>"
+258,how far is hostel from college,"For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>"
+259,hostel college distance,"For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>"
+260,where is the hostel,"For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>"
+261,how big is the hostel,"For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>"
+262,distance between college and hostel,"For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>"
+263,distance between hostel and college,"For hostel detail visit <a target=""_blank"" href=""ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS""> here</a>"
+264,events organised,"For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a>"
+265,list of events,"For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a>"
+266,list of events organised in college,"For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a>"
+267,list of events conducted in college,"For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a>"
+268,What events are conducted in college,"For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a>"
+269,Are there any event held at college,"For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a>"
+270,Events?,"For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a>"
+271,functions,"For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a>"
+272,what are the events,"For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a>"
+273,tell me about events,"For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a>"
+274,what about events,"For event detail visit <a target=""_blank"" href=""ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE""> here</a>"
+275,document to bring,"To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a>"
+276,documents needed for admision,"To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a>"
+277,documents needed at the time of admission,"To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a>"
+278,documents needed during admission,"To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a>"
+279,documents required for admision,"To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a>"
+280,documents required at the time of admission,"To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a>"
+281,documents required during admission,"To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a>"
+282,What document are required for admission,"To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a>"
+283,Which document to bring for admission,"To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a>"
+284,documents,"To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a>"
+285,what documents do i need,"To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a>"
+286,what documents do I need for admission,"To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a>"
+287,documents needed,"To know more about document required visit <a target=""_blank"" href=""ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE""> here</a>"
+288,size of campus,My College has total 2 floors 
+289,building size,My College has total 2 floors 
+290,How many floors does college have,My College has total 2 floors 
+291,floors in college,My College has total 2 floors 
+292,floors in college,My College has total 2 floors 
+293,how tall is UNI's College of Engineering college building,My College has total 2 floors 
+294,floors,My College has total 2 floors 
+295,Syllabus for IT,"Timetable provide direct to the students OR To know about syllabus visit <a target=""_blank"" href=""TIMETABLE LINK""> here</a>"
+296,what is the Information Technology syllabus,"Timetable provide direct to the students OR To know about syllabus visit <a target=""_blank"" href=""TIMETABLE LINK""> here</a>"
+297,syllabus,"Timetable provide direct to the students OR To know about syllabus visit <a target=""_blank"" href=""TIMETABLE LINK""> here</a>"
+298,timetable,"Timetable provide direct to the students OR To know about syllabus visit <a target=""_blank"" href=""TIMETABLE LINK""> here</a>"
+299,what is IT syllabus,"Timetable provide direct to the students OR To know about syllabus visit <a target=""_blank"" href=""TIMETABLE LINK""> here</a>"
+300,syllabus,"Timetable provide direct to the students OR To know about syllabus visit <a target=""_blank"" href=""TIMETABLE LINK""> here</a>"
+301,What is next lecture,"Timetable provide direct to the students OR To know about syllabus visit <a target=""_blank"" href=""TIMETABLE LINK""> here</a>"
+302,is there any library,"There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a>"
+303,library facility,"There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a>"
+304,library facilities,"There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a>"
+305,do you have library,"There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a>"
+306,does the college have library facility,"There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a>"
+307,college library,"There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a>"
+308,where can i get books,"There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a>"
+309,book facility,"There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a>"
+310,Where is library,"There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a>"
+311,Library,"There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a>"
+312,Library information,"There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a>"
+313,Library books information,"There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a>"
+314,Tell me about library,"There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a>"
+315,how many libraries,"There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=""blank"" href=""ADD LIBRARY DETAIL LINK"">here</a>"
+316,how is college infrastructure,Our University has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection
+317,infrastructure,Our University has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection
+318,college infrastructure,Our University has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection
+319,food facilities,Our university has canteen with variety of food available
+320,canteen facilities,Our university has canteen with variety of food available
+321,canteen facility,Our university has canteen with variety of food available
+322,is there any canteen,Our university has canteen with variety of food available
+323,Is there a cafetaria in college,Our university has canteen with variety of food available
+324,Does college have canteen,Our university has canteen with variety of food available
+325,Where is canteen,Our university has canteen with variety of food available
+326,where is cafetaria,Our university has canteen with variety of food available
+327,canteen,Our university has canteen with variety of food available
+328,Food,Our university has canteen with variety of food available
+329,Cafetaria,Our university has canteen with variety of food available
+330,food menu,"we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu"
+331,food in canteen,"we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu"
+332,Whats there on menu,"we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu"
+333,what is available in college canteen,"we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu"
+334,what foods can we get in college canteen,"we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu"
+335,food variety,"we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu"
+336,What is there to eat?,"we serve Franky, Locho, Alu-puri, Kachori, Khavsa, Thaali and many more on menu"
+337,What is college placement,"To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a>"
+338,Which companies visit in college,"To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a>"
+339,What is average package,"To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a>"
+340,companies visit,"To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a>"
+341,package,"To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a>"
+342,About placement,"To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a>"
+343,placement,"To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a>"
+344,recruitment,"To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a>"
+345,companies,"To know about placement visit <a target=""_blank"" href=""PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE"">here</a>"
+346,Who is HOD,All engineering departments have only one hod XYZ who available on (Place name)
+347,Where is HOD,All engineering departments have only one hod XYZ who available on (Place name)
+348,it hod,All engineering departments have only one hod XYZ who available on (Place name)
+349,name of it hod,All engineering departments have only one hod XYZ who available on (Place name)
+350,Who is computer HOD,All engineering departments have only one hod XYZ who available on (PLACE NAME)
+351,Where is computer HOD,All engineering departments have only one hod XYZ who available on (PLACE NAME)
+352,computer hod,All engineering departments have only one hod XYZ who available on (PLACE NAME)
+353,name of computer hod,All engineering departments have only one hod XYZ who available on (PLACE NAME)
+354,Who is extc HOD,Different school wise hod are different.So be more clear with your school or department
+355,Where is  extc HOD,Different school wise hod are different.So be more clear with your school or department
+356,extc hod,Different school wise hod are different.So be more clear with your school or department
+357,name of extc hod,Different school wise hod are different.So be more clear with your school or department
+358,what is the name of principal,XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate
+359,whatv is the principal name,XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate
+360,principal name,XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate
+361,Who is college principal,XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate
+362,Where is principal's office,XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate
+363,principal,XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate
+364,name of principal,XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate
+365,exam dates,"Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a>"
+366,exam schedule,"Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a>"
+367,When is semester exam,"Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a>"
+368,Semester exam timetable,"Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a>"
+369,sem,"Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a>"
+370,semester,"Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a>"
+371,exam,"Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a>"
+372,when is exam,"Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a>"
+373,exam timetable,"Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a>"
+374,exam dates,"Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a>"
+375,when is semester,"Here is the Academic Calendar  <a target=""_blank"" href=""YOUR ACADEMIC CALENDER"">website</a>"
+376,what is the process of admission,"Application can also be submitted online through the Unversity's  <a target=""_blank"" href=""LINK OF ADMISSION DOCUMENT"">website</a>"
+377,what is the admission process,"Application can also be submitted online through the Unversity's  <a target=""_blank"" href=""LINK OF ADMISSION DOCUMENT"">website</a>"
+378,How to take admission in your college,"Application can also be submitted online through the Unversity's  <a target=""_blank"" href=""LINK OF ADMISSION DOCUMENT"">website</a>"
+379,What is the process for admission,"Application can also be submitted online through the Unversity's  <a target=""_blank"" href=""LINK OF ADMISSION DOCUMENT"">website</a>"
+380,admission,"Application can also be submitted online through the Unversity's  <a target=""_blank"" href=""LINK OF ADMISSION DOCUMENT"">website</a>"
+381,admission process,"Application can also be submitted online through the Unversity's  <a target=""_blank"" href=""LINK OF ADMISSION DOCUMENT"">website</a>"
+382,scholarship,"Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>"
+383,Is scholarship available,"Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>"
+384,scholarship engineering,"Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>"
+385,scholarship it,"Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>"
+386,scholarship ce,"Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>"
+387,scholarship mechanical,"Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>"
+388,scholarship civil,"Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>"
+389,scholarship chemical,"Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>"
+390,scholarship for AI/ML,"Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>"
+391,available scholarships,"Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>"
+392,scholarship for computer engineering,"Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>"
+393,scholarship for IT engineering,"Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>"
+394,scholarship for mechanical engineering,"Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>"
+395,scholarship for civil engineering,"Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>"
+396,scholarship for chemical engineering,"Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>"
+397,list of scholarship,"Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>"
+398,comps scholarship,"Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>"
+399,IT scholarship,"Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>"
+400,mechanical scholarship,"Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>"
+401,civil scholarship,"Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>"
+402,chemical scholarship,"Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>"
+403,automobile scholarship,"Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>"
+404,first year scholarship,"Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>"
+405,second year scholarship,"Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>"
+406,third year scholarship,"Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>"
+407,fourth year scholarship,"Many government scholarships are supported by our university. For details and updates visit <a target=""_blank"" href=""(SCHOLARSHIP DETAILS LINK)"">here</a>"
+408,What facilities college provide,"Our university's Engineering department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen"
+409,College facility,"Our university's Engineering department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen"
+410,What are college facilities,"Our university's Engineering department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen"
+411,facilities,"Our university's Engineering department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen"
+412,facilities provided,"Our university's Engineering department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen"
+413,max number of students,"For IT, Computer and extc 60 per branch and seat may be differ for different department."
+414,number of seats per branch,"For IT, Computer and extc 60 per branch and seat may be differ for different department."
+415,number of seats in each branch,"For IT, Computer and extc 60 per branch and seat may be differ for different department."
+416,maximum number of seats,"For IT, Computer and extc 60 per branch and seat may be differ for different department."
+417,maximum students intake,"For IT, Computer and extc 60 per branch and seat may be differ for different department."
+418,What is college intake,"For IT, Computer and extc 60 per branch and seat may be differ for different department."
+419,how many stundent are taken in each branch,"For IT, Computer and extc 60 per branch and seat may be differ for different department."
+420,seat allotment,"For IT, Computer and extc 60 per branch and seat may be differ for different department."
+421,seats,"For IT, Computer and extc 60 per branch and seat may be differ for different department."
+422,college dress code,ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER
+423,college dresscode,ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER
+424,what is the uniform,ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER
+425,can we wear casuals,ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER
+426,Does college have an uniform,ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER
+427,Is there any uniform,ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER
+428,uniform,ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER
+429,what about uniform,ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER
+430,do we have to wear uniform,ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER
+431,what are the different committe in college,For the various committe in college contact this number: ADD NUMBER
+432,different committee in college,For the various committe in college contact this number: ADD NUMBER
+433,Are there any committee in college,For the various committe in college contact this number: ADD NUMBER
+434,Give me committee details,For the various committe in college contact this number: ADD NUMBER
+435,committee,For the various committe in college contact this number: ADD NUMBER
+436,how many committee are there in college,For the various committe in college contact this number: ADD NUMBER
+437,I love you,"I am not program for this, please ask appropriate query"
+438,Will you marry me,"I am not program for this, please ask appropriate query"
+439,Do you love me,"I am not program for this, please ask appropriate query"
+440,fuck,please use appropriate language
+441,fuck,Maintaining decency would be appreciated
+442,bitch,please use appropriate language
+443,bitch,Maintaining decency would be appreciated
+444,shut up,please use appropriate language
+445,shut up,Maintaining decency would be appreciated
+446,hell,please use appropriate language
+447,hell,Maintaining decency would be appreciated
+448,stupid,please use appropriate language
+449,stupid,Maintaining decency would be appreciated
+450,idiot,please use appropriate language
+451,idiot,Maintaining decency would be appreciated
+452,dumb ass,please use appropriate language
+453,dumb ass,Maintaining decency would be appreciated
+454,asshole,please use appropriate language
+455,asshole,Maintaining decency would be appreciated
+456,fucker,please use appropriate language
+457,fucker,Maintaining decency would be appreciated
+458,holidays,Academic calender is given to you by your class-soordinators after you join your respective classes
+459,when will semester starts,Academic calender is given to you by your class-soordinators after you join your respective classes
+460,when will semester end,Academic calender is given to you by your class-soordinators after you join your respective classes
+461,when is the holidays,Academic calender is given to you by your class-soordinators after you join your respective classes
+462,list of holidays,Academic calender is given to you by your class-soordinators after you join your respective classes
+463,Holiday in these year,Academic calender is given to you by your class-soordinators after you join your respective classes
+464,holiday list,Academic calender is given to you by your class-soordinators after you join your respective classes
+465,about vacations,Academic calender is given to you by your class-soordinators after you join your respective classes
+466,about holidays,Academic calender is given to you by your class-soordinators after you join your respective classes
+467,When is vacation,Academic calender is given to you by your class-soordinators after you join your respective classes
+468,When is holidays,Academic calender is given to you by your class-soordinators after you join your respective classes
+469,how long will be the vacation,Academic calender is given to you by your class-soordinators after you join your respective classes
+470,sports and games,"Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=""_blank"" href=/""(LINK IF HAVE)"">here</a>"
+471,give sports details,"Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=""_blank"" href=/""(LINK IF HAVE)"">here</a>"
+472,sports infrastructure,"Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=""_blank"" href=/""(LINK IF HAVE)"">here</a>"
+473,sports facilities,"Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=""_blank"" href=/""(LINK IF HAVE)"">here</a>"
+474,information about sports,"Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=""_blank"" href=/""(LINK IF HAVE)"">here</a>"
+475,Sports activities,"Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=""_blank"" href=/""(LINK IF HAVE)"">here</a>"
+476,please provide sports and games information,"Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=""_blank"" href=/""(LINK IF HAVE)"">here</a>"
+477,okk,I am glad I helped you
+478,okk,"welcome, anything else i can assist you with?"
+479,okie,I am glad I helped you
+480,okie,"welcome, anything else i can assist you with?"
+481,nice work,I am glad I helped you
+482,nice work,"welcome, anything else i can assist you with?"
+483,well done,I am glad I helped you
+484,well done,"welcome, anything else i can assist you with?"
+485,good job,I am glad I helped you
+486,good job,"welcome, anything else i can assist you with?"
+487,thanks for the help,I am glad I helped you
+488,thanks for the help,"welcome, anything else i can assist you with?"
+489,Thank You,I am glad I helped you
+490,Thank You,"welcome, anything else i can assist you with?"
+491,its ok,I am glad I helped you
+492,its ok,"welcome, anything else i can assist you with?"
+493,Thanks,I am glad I helped you
+494,Thanks,"welcome, anything else i can assist you with?"
+495,Good work,I am glad I helped you
+496,Good work,"welcome, anything else i can assist you with?"
+497,k,I am glad I helped you
+498,k,"welcome, anything else i can assist you with?"
+499,ok,I am glad I helped you
+500,ok,"welcome, anything else i can assist you with?"
+501,okay,I am glad I helped you
+502,okay,"welcome, anything else i can assist you with?"
+503,what can you do,I can answer to low-intermediate questions regarding college
+504,what can you do,"You can ask me questions regarding college, and i will try to answer them"
+505,what are the thing you can do,I can answer to low-intermediate questions regarding college
+506,what are the thing you can do,"You can ask me questions regarding college, and i will try to answer them"
+507,things you can do,I can answer to low-intermediate questions regarding college
+508,things you can do,"You can ask me questions regarding college, and i will try to answer them"
+509,what can u do for me,I can answer to low-intermediate questions regarding college
+510,what can u do for me,"You can ask me questions regarding college, and i will try to answer them"
+511,how u can help me,I can answer to low-intermediate questions regarding college
+512,how u can help me,"You can ask me questions regarding college, and i will try to answer them"
+513,why i should use you,I can answer to low-intermediate questions regarding college
+514,why i should use you,"You can ask me questions regarding college, and i will try to answer them"
+515,ragging,"We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging"
+516,is ragging practice active in college,"We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging"
+517,does college have any antiragging facility,"We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging"
+518,is there any ragging cases,"We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging"
+519,is ragging done here,"We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging"
+520,ragging against,"We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging"
+521,antiragging facility,"We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging"
+522,ragging juniors,"We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging"
+523,ragging history,"We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging"
+524,ragging incidents,"We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging"
+525,hod,"HODs differ for each branch, please be more specific like: (HOD it)"
+526,hod name,"HODs differ for each branch, please be more specific like: (HOD it)"
+527,who is the hod,"HODs differ for each branch, please be more specific like: (HOD it)"

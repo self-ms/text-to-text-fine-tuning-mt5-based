@@ -11,6 +11,6 @@
   "do_train": true,
   "do_eval": true,
   "remove_unused_columns": false,
-  "dataset_file_name": "Dataset/sparql.csv",
+  "dataset_file_name": "Dataset/chat.csv",
   "dataset_tokenizer": "google/mt5-base"
 }

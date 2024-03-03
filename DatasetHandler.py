@@ -14,7 +14,8 @@ class Dtataframe2Dataset:
         self.output_length = 128
         self.tokenizer = MT5Tokenizer.from_pretrained(data_args.dataset_tokenizer)
         df = pd.read_csv(data_args.dataset_file_name).dropna()[-20:]
-        self.train_dataset, self.valid_dataset, self.test_dataset = self.__data_frame_spliter(data_frame=df)
+        shuffled_df = df.sample(frac=1, random_state=42)
+        self.train_dataset, self.valid_dataset, self.test_dataset = self.__data_frame_spliter(data_frame=shuffled_df)
 
         torch.save(self.train_dataset, data_args.train_file_path)
         torch.save(self.valid_dataset, data_args.valid_file_path)

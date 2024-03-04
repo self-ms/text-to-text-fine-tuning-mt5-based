@@ -13,7 +13,7 @@ class Dtataframe2Dataset:
         self.input_length = 128
         self.output_length = 128
         self.tokenizer = MT5Tokenizer.from_pretrained(data_args.dataset_tokenizer)
-        df = pd.read_csv(data_args.dataset_file_name).dropna()[-20:]
+        df = pd.read_csv(data_args.dataset_file_name).dropna()
         shuffled_df = df.sample(frac=1, random_state=42)
         self.train_dataset, self.valid_dataset, self.test_dataset = self.__data_frame_spliter(data_frame=shuffled_df)
 
@@ -23,8 +23,8 @@ class Dtataframe2Dataset:
 
 
     def __data_frame_spliter(self, data_frame):
-        train_size = int(len(data_frame)*0.6)
-        val_size = int(len(data_frame)*0.2)
+        train_size = int(len(data_frame)*0.8)
+        val_size = int(len(data_frame)*0.1)
         test_size = int(len(data_frame)*0.1)
 
         train_data = data_frame.iloc[:train_size]
